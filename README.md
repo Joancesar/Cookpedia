@@ -1,5 +1,5 @@
 # Cookpedia
-Android App - Cookpedia, save your recipes in your phone
+Android App - Cookpedia, save your recipes on your phone
 
 Made with <a href="https://developer.android.com/training/data-storage/room">Room</a> Database
 
